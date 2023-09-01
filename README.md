@@ -24,10 +24,10 @@ cd stunning-octo-umbrella
 # (Isso pode variar dependendo de sua stack tecnológica)
 
 # Execute o aplicativo
-go get .
-got run main.go
+npm ci
+npm run start:dev
 
-nota: é necessário tem o Go instalado!
+nota: é necessário tem o Node.js instalado! (versão utilizada: v17.1.0)
 ```
 
 ## API Endpoints
